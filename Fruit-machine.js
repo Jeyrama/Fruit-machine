@@ -119,3 +119,5 @@ function fruit(reels, spins) {
   
   return b === c ? b : 0;
 }
+
+// or
